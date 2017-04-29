@@ -3,6 +3,5 @@
 Sitemap Using Laravel 5.2
 
 ## Page
-admin/index
-
+admin/index__
 sitemap
